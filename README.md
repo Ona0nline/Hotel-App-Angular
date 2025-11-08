@@ -1,5 +1,11 @@
 # HotelApp
-
+## Welcome to my second Angular learning project
+#### To checkout how I have implemented features such as routing and form validation, play around with the hotel reservation application by 
+```bash
+git clone <copied url>
+cd hotel-app-angular
+ng serve -o
+```
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
 ## Development server
